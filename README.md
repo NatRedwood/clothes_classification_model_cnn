@@ -5,7 +5,7 @@
 
 The data used for the model training was downloaded directly from Keras datasets library. More details about the dataset available here: [fashion_mnist](https://keras.io/api/datasets/fashion_mnist/)
 The project used the data split: 70/15/15 for train/dev/test set.
-All the details about the experiments' set up are included in the pdf files [report(https://github.com/Nwojarnik/clothes_classification_model_cnn/blob/main/pdfs/Redwood_Lab2_Raport.pdf). 
+All the details about the experiments' set up are included in the pdf files [report](https://github.com/Nwojarnik/clothes_classification_model_cnn/blob/main/pdfs/Redwood_Lab2_Raport.pdf). 
 
 ## Project Keypoints
 
